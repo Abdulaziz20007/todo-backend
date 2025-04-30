@@ -9,7 +9,9 @@ async function bootstrap() {
     origin: [
       'http://localhost:5173',
       'http://localhost:5174',
+      'http://localhost:3000',
       'https://todo.ligma.uz',
+      'https://todo.nextjs.ligma.uz',
     ],
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
     credentials: true,
