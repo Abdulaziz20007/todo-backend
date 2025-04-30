@@ -11,7 +11,7 @@ async function bootstrap() {
       'http://localhost:5174',
       'http://localhost:3000',
       'https://todo.ligma.uz',
-      'https://todo.nextjs.ligma.uz',
+      'https://todo-nextjs-snowy-five.vercel.app',
     ],
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
     credentials: true,
